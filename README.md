@@ -9,7 +9,7 @@ After pasting the code, run the live server of vs code.
 
 ***You have to edit the questions(Add, Remove and Modify) with the vs code***
 
-# images
+# IMAGES
 
 ## Landing Page
 ![1](https://github.com/anishsaharan/quiz-game/assets/111068771/7cbc7bd1-9d17-451a-a202-cae18282c4af)
