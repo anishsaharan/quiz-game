@@ -14,11 +14,9 @@ After pasting the code, run the live server of vs code.
 ## Landing Page
 ![1](https://github.com/anishsaharan/quiz-game/assets/111068771/7cbc7bd1-9d17-451a-a202-cae18282c4af)
 
-## Question Window (If the answer is Right)
-![2](https://github.com/anishsaharan/quiz-game/assets/111068771/e1eb1ea3-5f3b-494b-a5b8-932a952f540f)
+## Question Window 
+![image](https://github.com/anishsaharan/quiz-game/assets/111068771/dbbad88f-8222-416a-9861-a6d635e241c7)
 
-## Question Window (If the answer is Wrong)
-![3](https://github.com/anishsaharan/quiz-game/assets/111068771/4be13b51-2c52-4b4d-846a-8e418644ff86)
 
 ## Score Window 
 ![4](https://github.com/anishsaharan/quiz-game/assets/111068771/4baae7d8-841e-44e4-894e-a87fef828017)
